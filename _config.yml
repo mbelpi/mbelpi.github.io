@@ -8,15 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "María Belén Elías-Pineda"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "María Belén Elías-Pineda"
+description              : &description "PhD student in Comparative Politics at Cornell University"
+url                      : "https://mbelpi.github.io"
+baseurl                  : ""
+repository               : "mbelpi/mbelpi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,24 +23,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  name             : "María Belén Elías-Pineda"
+  pronouns         : "she/her"
+  bio              : "Peruvian, PhD student in Comparative Politics at Cornell University"
+  googlescholar    : "https://scholar.google.com/citations?user=1RW3RpwAAAAJ&hl=es"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7339-6358"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +48,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://pe.linkedin.com/in/mar%C3%ADa-bel%C3%A9n-el%C3%ADas-pineda-1128b4158"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -85,7 +76,16 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+title: "Regional governments in Peru (2002–2024)"
+collection: publications
+category: book-chapters
+permalink: /publication/regional-governments-peru
+excerpt: 'In E. Benton & J. Kincaid (Eds.), The Elgar Encyclopedia of Local and Regional Governments: A Global Perspective.'
+date: 2027-01-01
+venue: 'Edward Elgar Publishing'
+paperurl: ''
+citation: 'Došek, T., Quiñón, A. & Elías, M. B. (Forthcoming).'
+---
   manuscripts:
     title: 'Journal Articles'    
   conferences:
