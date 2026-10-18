@@ -35,14 +35,14 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    "layout/json_cv"
+    "layout/json_cv";
 
 /* Deep Grape link color */
 a {
-  color: #4A1942;
+  color: #4A1942 !important;
 }
 
 a:hover,
 a:focus {
-  color: #30102B;
+  color: #30102B !important;
 }
