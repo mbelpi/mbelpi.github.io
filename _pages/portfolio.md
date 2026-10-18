@@ -14,7 +14,7 @@ author_profile: true
 
 ### Book Chapters
 
-Došek, T., Quiñón, A., & **Elías, M. B.** (in press). Regional governments in Peru (2002–2024). In E. Benton & J. Kincaid (Eds.), *The Elgar encyclopedia of local and regional governments: A global perspective*. Edward Elgar Publishing.
+Došek, T., Quiñón, A., & **Elías, M. B.** (forthcoming, 2027). Regional governments in Peru (2002–2024). In E. Benton & J. Kincaid (Eds.), *The Elgar Encyclopedia of Local and Regional governments: A Global Perspective*. Edward Elgar Publishing.
 
 ### Research Reports
 
