@@ -36,9 +36,9 @@ Došek, T., Quiñón, A., & **Elías Pineda, M. B.** (2022). *Descentralización
 
 “Why Do Some Territories Experience More States of Emergency? Evidence from Peru, 2000–2024.” Faúndez-Caicedo, V., Huertas-Hernández, S., & **Elías-Pineda, M. B.**
 
-## Academic Conference Presentations (selected)
+## Conference Presentations (selected)
 
-- Latin American Studies Association (LASA) Congress: 2021 (Speaker, Virtual), 2022 (Speaker, Virtual), 2024 (Session organizer and speaker, Bogotá, PUJ)
-- National Congress of Political Science, Argentine Society of Political Analysis (SAAP): 2023 (Speaker, Buenos Aires, UCA)
-- International Seminar on Subnational Politics in Latin America: 2022 (Speaker, Lima, PUCP)
+- Latin American Studies Association (LASA) Congress: 2021 (Speaker, Virtual), 2022 (Speaker, Virtual) and 2024 (Session organizer and speaker, Bogotá, PUJ).
+- National Congress of Political Science, Argentine Society of Political Analysis (SAAP): 2023 (Speaker, Buenos Aires, UCA).
+- International Seminar on Subnational Politics in Latin America: 2022 (Speaker, Lima, PUCP).
 
