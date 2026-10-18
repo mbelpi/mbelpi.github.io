@@ -16,7 +16,7 @@ author_profile: true
 
 Došek, T., Quiñón, A., & **Elías, M. B.** (forthcoming, 2027). Regional governments in Peru (2002–2024). In E. Benton & J. Kincaid (Eds.), *The Elgar Encyclopedia of Local and Regional governments: A Global Perspective*. Edward Elgar Publishing.
 
-### Research Reports
+### Research Reports (Documentos de Trabajo)
 
 Quiñón, A., **Elías Pineda, M. B.**, & Došek, T. (2025). *Elecciones en Perú 2021: Más problemas de una “democracia sin partidos”*. Departamento de Ciencias Sociales, Pontificia Universidad Católica del Perú. [http://hdl.handle.net/20.500.14657/204979](http://hdl.handle.net/20.500.14657/204979)
 
