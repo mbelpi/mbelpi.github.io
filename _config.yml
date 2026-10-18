@@ -3,11 +3,11 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "sunrise"
+site_theme: "default"
 title: "María Belén Elías-Pineda"
 title_separator: "-"
 name: &name "María Belén Elías-Pineda"
-description: &description "PhD student in Comparative Politics at Cornell University"
+description: &description "PhD student, Department of Government, Cornell University"
 url: "https://mbelpi.github.io"
 baseurl: ""
 repository: "mbelpi/mbelpi.github.io"
@@ -16,8 +16,8 @@ repository: "mbelpi/mbelpi.github.io"
 author:
   avatar: "profile.png"
   name: "María Belén Elías-Pineda"
-  pronouns: "she/her"
-  bio: "Peruvian PhD student in Comparative Politics at Cornell University"
+  pronouns: "She/Her"
+  bio: "PhD student, Department of Government, Cornell University"
   googlescholar: "https://scholar.google.com/citations?user=1RW3RpwAAAAJ&hl=es"
   inspire-hep:
   impactstory:
