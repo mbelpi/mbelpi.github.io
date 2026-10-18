@@ -91,3 +91,12 @@ h1, h2, h3, h4, h5, h6, .page__title, .nav__title, .nav__sub-title,
 .sidebar .author__bio {
   font-size: 0.65em !important;
 }
+/* Link color for dark mode */
+html[data-theme="dark"] a {
+  color: #9AD9F0 !important;
+}
+
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+  color: #C8EEFA !important;
+}
