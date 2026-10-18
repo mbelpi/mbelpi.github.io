@@ -14,7 +14,7 @@ author_profile: true
 
 ### Book Chapters
 
-Došek, T., Quiñón, A., & **Elías, M. B.** (forthcoming, 2027). Regional governments in Peru (2002–2024). In E. Benton & J. Kincaid (Eds.), *The Elgar Encyclopedia of Local and Regional governments: A Global Perspective*. Edward Elgar Publishing.
+Došek, T., Quiñón, A., & **Elías, M. B.** (forthcoming, 2027). Regional governments in Peru (2002–2024). In E. Benton & J. Kincaid (Eds.), *The Elgar Encyclopedia of Local and Regional Governments: A Global Perspective*. Edward Elgar Publishing.
 
 ### Research Reports (Documentos de Trabajo)
 
@@ -38,7 +38,7 @@ Došek, T., Quiñón, A., & **Elías Pineda, M. B.** (2022). *Descentralización
 
 ## Conference Presentations (selected)
 
-- Latin American Studies Association (LASA) Congress: 2021 (Speaker, Virtual), 2022 (Speaker, Virtual) and 2024 (Session organizer and speaker, Bogotá, PUJ).
+- Latin American Studies Association (LASA) Congress: 2021 (Speaker, Virtual), 2022 (Speaker, Virtual), and 2024 (Session organizer and speaker, Bogotá, PUJ).
 - National Congress of Political Science, Argentine Society of Political Analysis (SAAP): 2023 (Speaker, Buenos Aires, UCA).
 - International Seminar on Subnational Politics in Latin America: 2022 (Speaker, Lima, PUCP).
 
