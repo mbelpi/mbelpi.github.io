@@ -15,3 +15,5 @@ Currently, I am a Graduate Fellow (2026-27) in the Latin American and Caribbean 
 Before joining Cornell, I worked as a research assistant at Pontificia Universidad Católica del Perú (PUCP) and as a researcher at Peru's electoral bodies (Oficina Nacional de Procesos Electorales and Registro Nacional de Identificación y Estado Civil). I earned a Bachelor's degree (with Licenciatura) in Political Science and Government from PUCP (highest distinction).
 
 My research has been published in Latin American Research Review (forthcoming) and Revista Elecciones.
+
+Feel free to contact me! mbe37@cornell.edu.
