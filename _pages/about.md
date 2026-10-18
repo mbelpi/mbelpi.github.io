@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hola! I am a Peruvian PhD student in Comparative Politics at Cornell University. My research explores subnational politics, democracy, and women's political representation with a regional focus in Latin America.
+¡Hola! I am a Peruvian PhD student in Comparative Politics at Cornell University. My research explores subnational politics, democracy, and women's political representation with a regional focus in Latin America.
 
 Currently, I am a Graduate Fellow (2026–27) in the [Latin American and Caribbean Studies Program](https://einaudi.cornell.edu/discover/people/maria-elias-pineda) at the Mario Einaudi Center for International Studies and serve as an administrative coordinator at the [Red de Estudios sobre Política Subnacional en América Latina (REPSAL)](https://sites.google.com/view/redsubnacional/inicio).
 
