@@ -7,7 +7,7 @@ author_profile: true
 
 ### Peer-Reviewed Articles
 
-**Elías-Pineda, M. B.** (forthcoming, 2028). Women’s political ambition and candidate selection in subnational executive offices: Pathways to vice gubernatorial candidacies in Peru. *Latin American Research Review, 63*(3). (Manuscript upon request)
+**Elías-Pineda, M. B.** (forthcoming, 2028). Women’s political ambition and candidate selection in subnational executive offices: Pathways to vice-Gubernatorial candidacies in Peru. *Latin American Research Review, 63*(3). (Manuscript upon request)
 
 **Elías, M. B.**, & Benites, A. (2024). La relación entre el apoyo a la democracia y las preferencias ciudadanas hacia el ejercicio iliberal y autoritario del poder político en Perú (2023). *Revista Elecciones, 23*(28). [https://doi.org/10.53557/Elecciones.2024.v23n28.06](https://doi.org/10.53557/Elecciones.2024.v23n28.06)
 
