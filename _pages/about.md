@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Peruvian PhD student in Comparative Politics at Cornell University, with a regional focus on Latin America. My research explores subnational politics, democracy, and women's political representation.
+Hola! I am a Peruvian PhD student in Comparative Politics at Cornell University. My research explores subnational politics, democracy, and women's political representation with a regional focus in Latin America.
 
 Currently, I am a Graduate Fellow (2026-27) in the Latin American and Caribbean Studies Program at the Mario Einaudi Center for International Studies and serve as an administrative coordinator at the Red de Estudios sobre Política Subnacional en América Latina (REPSAL). 
 
-Before joining Cornell, I worked as a research assistant at Pontificia Universidad Católica del Perú (PUCP) and as a researcher at Peru's electoral bodies (Oficina Nacional de Procesos Electorales and Registro Nacional de Identificación y Estado Civil). I earned a Bachelor's degree (with Licenciatura) in Political Science and Government from PUCP (highest distinction).
+Before joining Cornell in 2025, I worked as a research and teaching assistant at Pontificia Universidad Católica del Perú (PUCP) and as a researcher at Peru's electoral bodies (Oficina Nacional de Procesos Electorales and Registro Nacional de Identificación y Estado Civil). I earned a Bachelor's degree (with Licenciatura) in Political Science and Government from PUCP (highest distinction).
 
 My research has been published in Latin American Research Review (forthcoming) and Revista Elecciones.
 
-Feel free to contact me! mbe37[at]cornell[dot]edu.
+Please, feel free to contact me: mbe37[at]cornell[dot]edu.
