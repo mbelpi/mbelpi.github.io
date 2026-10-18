@@ -1,8 +1,4 @@
 ---
-permalink: /portfolio/
-title:
-author_profile: true
----
 ## Publications
 
 ### Peer-Reviewed Articles
