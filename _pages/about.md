@@ -16,4 +16,4 @@ Before joining Cornell in 2025, I worked as a research and teaching assistant at
 
 My research has been published in Latin American Research Review (forthcoming) and Revista Elecciones.
 
-Please feel free to contact me: mbe37[at]cornell[dot]edu.
+Please feel free to reach out: mbe37[at]cornell[dot]edu.
