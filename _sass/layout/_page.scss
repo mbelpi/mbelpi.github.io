@@ -1,3 +1,4 @@
+
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
@@ -59,11 +60,11 @@
     font-size: 0.9em;
   }
 
-  /* paragraph indents */
+  /* Paragraph spacing */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.8em;
 
-    /* sibling indentation*/
+    /* sibling indentation */
     @if $paragraph-indent == true {
       & + p {
         text-indent: $indent-var;
@@ -220,7 +221,6 @@
   text-transform: uppercase;
 }
 
-
 /*
    Page meta
    ========================================================================== */
@@ -245,7 +245,6 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
 
 /*
    Page taxonomy
@@ -275,7 +274,6 @@
     color: var(--global-link-color-hover);
   }
 }
-
 
 /*
    Comments
@@ -371,7 +369,6 @@
     text-decoration: none;
   }
 }
-
 
 /*
    Related
