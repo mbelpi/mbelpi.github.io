@@ -49,3 +49,9 @@ a:focus {
   color: #30102B !important;
 }
 
+/* Nunito font */
+body, h1, h2, h3, h4, h5, h6, p, li, dt, dd, table, button, input, textarea, select, figcaption,
+.masthead__inner-wrap, .nav__title, .page__lead, .page__meta, .page__footer-copyright,
+.page__footer-follow li, .archive__item-title, .sidebar p, .sidebar li, .sidebar h2, .sidebar h3 {
+  font-family: 'Nunito', sans-serif !important;
+}
