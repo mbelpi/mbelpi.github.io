@@ -49,9 +49,16 @@ a:focus {
   color: #30102B !important;
 }
 
-/* Nunito for body text only */
-body, p, li, dt, dd, table, button, input, textarea, select,
+/* Nunito for body text */
+body, p, li, dt, dd, table, button, input, textarea, select, figcaption,
 .masthead__inner-wrap, .page__lead, .page__meta, .page__footer-copyright,
 .page__footer-follow li, .sidebar p, .sidebar li {
   font-family: 'Nunito', sans-serif !important;
+}
+
+/* Lora for headings and titles */
+h1, h2, h3, h4, h5, h6, .page__title, .nav__title, .nav__sub-title,
+.archive__item-title, .author__name {
+  font-family: 'Lora', serif !important;
+  font-weight: 600;
 }
