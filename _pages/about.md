@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
@@ -16,4 +16,4 @@ Before joining Cornell, I worked as a research assistant at Pontificia Universid
 
 My research has been published in Latin American Research Review (forthcoming) and Revista Elecciones.
 
-Feel free to contact me! mbe37@cornell.edu.
+Feel free to contact me! mbe37[at]cornell[dot]edu.
