@@ -69,3 +69,14 @@ h1, h2, h3, h4, h5, h6, .page__title, .nav__title, .nav__sub-title,
 .greedy-nav .visible-links li, .greedy-nav .hidden-links a {
   font-family: 'Lora', serif !important;
 }
+
+/* Smaller sidebar text */
+.sidebar .author__name {
+  font-size: 0.85em !important;
+  white-space: nowrap;
+}
+
+.sidebar .author__pronouns,
+.sidebar .author__bio {
+  font-size: 0.65em !important;
+}
