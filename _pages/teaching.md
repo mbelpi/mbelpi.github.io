@@ -11,6 +11,6 @@ author_profile: true
 *Introduction to American Government and Politics* (Undergraduate level)<br>
 Instructor: Dr. Douglas Kriner
 
-**Teaching Assistant, Department of Social Science, PUCP**, 2021–2024<br>
+**Teaching Assistant, Department of Social Science, Pontificia Universidad Católica del Perú**, 2021–2024<br>
 *Theories of Democracy* (Undergraduate level)<br>
 Instructors: Dr. Stéphanie Rousseau, Dr. Carmen Ilizarbe, Dr. Omar Coronel, and Dr. Luis Piedrahita
