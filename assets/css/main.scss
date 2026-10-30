@@ -49,11 +49,11 @@ a:focus {
   color: #30102B !important;
 }
 
-/* Nunito for body text */
+/* Lora for body text */
 body, p, li, dt, dd, table, button, input, textarea, select, figcaption,
 .masthead__inner-wrap, .page__lead, .page__meta, .page__footer-copyright,
 .page__footer-follow li, .sidebar p, .sidebar li {
-  font-family: 'Nunito', sans-serif !important;
+  font-family: 'Lato', sans-serif !important;
 }
 
 /* Lora for headings and titles */
@@ -99,4 +99,9 @@ html[data-theme="dark"] a {
 html[data-theme="dark"] a:hover,
 html[data-theme="dark"] a:focus {
   color: #C8EEFA !important;
+}
+
+/* Tamaño del texto del cuerpo y sus subtítulos */
+.page__content {
+  font-size: 0.85em;
 }
