@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## English
+**English**
 
 ¡Hola! I am a PhD student in the [Department of Government](https://government.cornell.edu/) at Cornell University. My research focuses on subnational politics, democracy, and women's political representation in Latin America. 
 
@@ -22,7 +22,7 @@ Please feel free to reach out: mbe37[at]cornell[dot]edu.
 
 ---
 
-## Spanish 
+**Spanish** 
 
 ¡Hola! Soy estudiante de doctorado en el [Departamento de Gobierno](https://government.cornell.edu/) de la Universidad de Cornell. Mi investigación se enfoca en política subnacional, democracia y representación política de las mujeres en América Latina. 
 
