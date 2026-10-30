@@ -32,4 +32,4 @@ Antes de unirme a Cornell, trabajé como asistente de investigación y docencia 
 
 Mi investigación ha sido publicada o está en vías de publicación en <em>Latin American Research Review</em> y la <em>Revista Elecciones</em>.
 
-Puede escribirme a mi correo institucional: mbe37[at]cornell[dot]edu.
+Puede ponerse en contacto conmigo a través de mi correo institucional: mbe37[at]cornell[dot]edu.
