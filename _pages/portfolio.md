@@ -31,7 +31,7 @@ Došek, T., Quiñón, A., & **Elías Pineda, M. B.** (2022). *Descentralización
 
 - “Subnational Democratic Resistance: Why Do Regional Governments Align or Confront National Authorities during Democratic Backsliding.” Dissertation project, data collection.
 - “Women Governors in Latin America.” Data collection.
-- “Why Do Some Territories Experience More States of Emergency? Evidence from Peru, 2000–2024”, with Faúndez-Caicedo, V. and Huertas-Hernández, S.
+- “Why Do Some Territories Experience More States of Emergency? Evidence from Peru, 2000–2024”, with Faúndez-Caicedo, V. (Vanderbilt University) and Huertas-Hernández, S. (Universidad Mayor).
 
 ## Conference Presentations (selected)
 
