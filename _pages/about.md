@@ -28,7 +28,7 @@ Please feel free to reach out: mbe37[at]cornell[dot]edu.
 
 Actualmente, soy Graduate Fellow (2026–27) en el [Programa de América Latina y el Caribe](https://einaudi.cornell.edu/discover/people/maria-elias-pineda) del Centro de Estudios Internacionales Mario Einaudi. También me desempeño como coordinadora administrativa en la [Red de Estudios sobre Política Subnacional en América Latina (REPSAL)](https://sites.google.com/view/redsubnacional/inicio).
 
-Antes de unirme a Cornell, trabajé como asistente de investigación y docencia en la Pontificia Universidad Católica del Perú (PUCP). Asimismo, fui investigadora en organismos de gestión electoral en Perú. 
+Antes de unirme a Cornell, trabajé como asistente de investigación y docencia en la Pontificia Universidad Católica del Perú (PUCP). Asimismo, fui investigadora en organismos de gestión electoral en Perú. Recibí mi título de bachiller y licenciada de la PUCP en 2021. 
 
 Mi investigación ha sido publicada o está en vías de publicación en <em>Latin American Research Review</em> y la <em>Revista Elecciones</em>.
 
