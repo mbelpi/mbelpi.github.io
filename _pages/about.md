@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-English
+## English
 
 ¡Hola! I am a PhD student in the [Department of Government](https://government.cornell.edu/) at Cornell University. My research focuses on subnational politics, democracy, and women's political representation in Latin America. 
 
@@ -22,9 +22,9 @@ Please feel free to reach out: mbe37[at]cornell[dot]edu.
 
 ---
 
-Spanish 
+## Spanish 
 
-¡Hola! Soy una estudiante de doctorado en el [Departamento de Gobierno](https://government.cornell.edu/) de la Universidad de Cornell. Mi investigación se enfoca en política subnacional, democracia y representación política de las mujeres en América Latina. 
+¡Hola! Soy estudiante de doctorado en el [Departamento de Gobierno](https://government.cornell.edu/) de la Universidad de Cornell. Mi investigación se enfoca en política subnacional, democracia y representación política de las mujeres en América Latina. 
 
 Actualmente, soy Graduate Fellow (2026–27) en el [Programa de América Latina y el Caribe](https://einaudi.cornell.edu/discover/people/maria-elias-pineda) del Centro de Estudios Internacionales Mario Einaudi. También me desempeño como coordinadora administrativa en la [Red de Estudios sobre Política Subnacional en América Latina (REPSAL)](https://sites.google.com/view/redsubnacional/inicio).
 
@@ -32,4 +32,4 @@ Antes de unirme a Cornell, trabajé como asistente de investigación y de docenc
 
 Mi investigación ha sido publicada o está en vías de publicación en em>Latin American Research Review</em> y la <em>Revista Elecciones</em>.
 
-Me puede contactar a través del siguiente correo: mbe37[at]cornell[dot]edu.
+Puede escribirme a mi correo institucional: mbe37[at]cornell[dot]edu.
